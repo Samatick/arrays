@@ -1,7 +1,7 @@
 import UIKit
 
 // Arrays - Массивы
-
+//Changes
 var visitedCities: [String] = ["Bishkek", "Istanbul", "Munich", "New York"]
 let cities: [String] = ["Ankara", "New Jersey", "Dublin", "Toronto"]
 

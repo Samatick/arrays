@@ -2,7 +2,7 @@
 Creating, Accessing, Editing Arrays, iterations
 
 import UIKit
-
+//Changes
 // Arrays - Массивы
 
 var visitedCities: [String] = ["Bishkek", "Istanbul", "Munich", "New York"]
